@@ -125,7 +125,8 @@ traversed_path = dfs(graph, start, visited, path)
 print(traversed_path)
 ```
 
-## Output
+
+## Output:
 <img width="136" height="156" alt="Screenshot 2026-07-25 104626" src="https://github.com/user-attachments/assets/54c248f0-de52-4f7f-93ab-6a5e1492e7d1" />
 
 <h3>Result:</h3>
